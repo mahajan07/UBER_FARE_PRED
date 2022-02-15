@@ -11,3 +11,5 @@ Understand the type of data and finding factors which affect the output variable
 Checking biases,Counting and removing the null values in columns for better target variable. <br  />
 Perform train test split. <br  />
 Predict the accuracy using regression models and comparing results with different models <br  />
+
+https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/
